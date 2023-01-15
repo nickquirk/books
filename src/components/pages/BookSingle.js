@@ -19,7 +19,6 @@ const BookSingle = (props) => {
   const [ errors, setErrors ] = useState(false)
   const [ description, setDescription ] = useState('')
   const [ subjects, setSubjects ] = useState([])
-  const [ randomWorks, setRandomWorks ] = useState([])
 
 
   // ! Location 

@@ -1,6 +1,5 @@
 // import from React
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import { useParams } from 'react'
 
 //Import components 
 import PageNavbar from './components/pages/common/PageNavbar'

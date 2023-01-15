@@ -7,7 +7,6 @@ import { Container, Nav } from 'react-bootstrap'
 import Navbar from 'react-bootstrap/Navbar'
 
 //Import custom components 
-import BookIndex from '../../pages/BookIndex'
 
 const PageNavbar = () => {
   // ! State 

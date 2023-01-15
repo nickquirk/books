@@ -1,7 +1,7 @@
 // Imports
 import { useState, useEffect, useCallback } from 'react'
-import { Breadcrumb, Container } from 'react-bootstrap'
-import { Link, useNavigate, useParams } from 'react-router-dom'
+import { Container } from 'react-bootstrap'
+import { Link, useParams } from 'react-router-dom'
 import axios from 'axios'
 
 //Imports from React
